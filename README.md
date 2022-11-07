@@ -7,7 +7,7 @@ My name is Bianca. I'm a Computer Science student and my goal is to become a Ful
 - 🤝 I'm open to collaborating on open-source or personal projects
 - ✨ Fun fact: I love watching anime and playing cozy games
 
-Skills
+## Skills
 
 
 <!--
