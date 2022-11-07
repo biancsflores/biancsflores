@@ -1,6 +1,6 @@
 ### Hi there!! 👋
 
-<hr>
+<hr style="width:0.1">
 
 My name is Bianca. I'm a Computer Science student and my goal is to become a Full-Stack Software Engineer. I am currently teaching myself web development. 
 
