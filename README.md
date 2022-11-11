@@ -1,6 +1,6 @@
 # Hi there!! 👋
 
-My name is Bianca. I'm a Computer Science student and my goal is to become a Full-Stack Software Engineer. I am currently teaching myself web development. 
+My name is Bianca. I'm a Computer Science student and my goal is to become a Full-Stack Software Developer. I am currently teaching myself web development. 
 
 - 📍 I'm based in Los Angeles, California!
 - 📫 You can reach me at biyaflrs@gmail.com
